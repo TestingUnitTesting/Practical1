@@ -35,7 +35,7 @@ public final class EasyMaths {
                 return false;
             	}
         }
-
+int y = 0;
         return true;
     }
 
